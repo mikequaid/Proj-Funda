@@ -1,6 +1,6 @@
 # Project - Fundamentals of Data Analysis
 
-![](GMIT.JPG)
+![GMIT](https://raw.githubusercontent.com/mikequaid/data/master/GMIT.JPG)
 
 This repository is for a project to be submitted for the module Fundamentals of Data Analysis.
 The learning outcomes for this module are listed below and this module forms part of my Dipolma course.
@@ -16,4 +16,4 @@ Software used to make this repository: Anaconda version 3.6.5; Jupyter notebook 
 	- Week-ending 9th Dec : Comparisons and conclusions
 	- Week-ending 14th Dec: Final review and changes
 
-![](outcomes2.JPG)
+![learning outcomes](https://raw.githubusercontent.com/mikequaid/data/master/outcomes2.JPG)
